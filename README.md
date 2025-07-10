@@ -36,7 +36,7 @@ Key financial KPIs including Total Cost, Quantity, Total Sales, and Profit.
 Supervisor overview to track team contributions.
 
  **Business Impact** <br />
-Empowers leadership to quickly identify high-profit categories and brands, allocate resources effectively, optimize cost structures, and strategize region-wise marketing efforts, ultimately driving higher profitability and operational efficiency.
+It Empowers leadership to quickly identify high-profit categories and brands, allocate resources effectively, optimize cost structures, and strategize region-wise marketing efforts, ultimately driving higher profitability and operational efficiency.
 
 ## Key Features of the Dashboard
 📊 KPI cards summarizing Total Cost, Total Sales, Total Profit, and Quantity Sold.<br />
@@ -54,5 +54,7 @@ Empowers leadership to quickly identify high-profit categories and brands, alloc
 ## Final Conclusion 
 The Techno Data Sales Performance Dashboard provides a comprehensive, visual overview of 2023–24 sales, highlighting key insights across product categories, brand costs, and regional distribution. By showcasing top-selling products like monitors and CPUs, and analyzing brand-wise spending with Intel and Samsung as major cost drivers, it helps identify profit opportunities and optimize procurement strategies. The interactive state map and supervisor panel further empower leadership to make informed, data-driven decisions. Overall, this Power BI dashboard serves as a powerful tool for enhancing strategic planning, maximizing profitability, and improving operational efficiency in a competitive market.
 
-
-
+ ## Feedback & Collaboration
+Your feedback is welcome! If you'd like to collaborate on similar Power BI analytics and dashboarding projects, feel free to connect.
+**Email** - rathorrajat6002@gmail.com 
+**Phone Number** - 8368281311
