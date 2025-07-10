@@ -49,7 +49,7 @@ Empowers leadership to quickly identify high-profit categories and brands, alloc
 🧮 Custom DAX measures to dynamically calculate profit and sales metrics.<br />
 
 ## Dashboard Interaction  
-< a href="https://github.com/RajatRathor-DA/Techno-Data-Business-Intelligence Dashboard/blob/main/Sales%20Analysis%20Report%20TECHNO%20DATA%20%20By%20RAJAT%20RATHOR%20.png">View dashboard<\a>
+< a href="https://github.com/RajatRathor-DA/Techno-Data-Business-IntelligenceDashboard/blob/main/Sales%20Analysis%20Report%20TECHNO%20DATA%20%20By%20RAJAT%20RATHOR%20.png">View dashboard<\a>
 
 ## Screenshot or Demo
 <img width="577" alt="Sales Analysis Report TECHNO DATA  By RAJAT RATHOR " src="https://github.com/user-attachments/assets/31adc149-5af8-44c3-9dc1-931582ec65cd" />
