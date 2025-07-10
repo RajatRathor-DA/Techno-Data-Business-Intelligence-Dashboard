@@ -1,10 +1,10 @@
 # Techno-Data-Sales-Performance-Dashboard
 
-## Project Title / Headline
+## Project Title (Headline)
 Techno Data Sales Performance Dashboard 2023-24
 A dynamic, interactive Power BI dashboard designed to analyze and visualize sales performance for Techno Data across multiple product categories, brands, and states in India.
 
-## Short Description / Purpose
+## Short Description (Purpose)
 The Techno Data Sales Performance Dashboard offers a comprehensive visual analysis of product-wise sales counts, brand cost distributions, and geographical reach. This tool empowers business managers, sales teams, and decision-makers to monitor key metrics like total cost, total sales, and profit, and to identify top-selling categories and high-cost brands for strategic planning.
 
 ## Tech Stack
@@ -20,7 +20,7 @@ Slicers & Filters – Enabled for flexible user-driven exploration by supervisor
 The dataset used in this project was collected from internal sales records of Techno Data for FY 2023-24.
 It includes information on product categories, sales quantities, costs, brand-wise expenditures, regional distribution, and supervisor performance. The data is intended for internal business analysis and performance tracking.
 
-## Features / Highlights
+## Features (Highlights)
 **Business Problem** <br />
 Sales and business teams lacked a centralized, visual platform to monitor product-wise performance, regional coverage, and brand-level costs, making it challenging to identify key profit drivers and optimize inventory.
 
