@@ -21,13 +21,13 @@ The dataset used in this project was collected from internal sales records of Te
 It includes information on product categories, sales quantities, costs, brand-wise expenditures, regional distribution, and supervisor performance. The data is intended for internal business analysis and performance tracking.
 
 ## Features / Highlights
-Business Problem
+**Business Problem** <br />
 Sales and business teams lacked a centralized, visual platform to monitor product-wise performance, regional coverage, and brand-level costs, making it challenging to identify key profit drivers and optimize inventory.
 
-  Goal of the Dashboard
+ **Goal of the Dashboard** <br />
 To build an interactive Power BI dashboard that clearly communicates overall and detailed sales performance, highlights top-performing categories and brands, and supports data-driven decision-making for better profitability.
 
- Key Analysis Walkthrough
+ **Key Analysis Walkthrough** <br />
 The dashboard provides insights into:
 Count of sales by product category (e.g., Monitor, CPU, Mouse).
 Total cost breakdown by brand (e.g., Intel, Samsung, Nvidia).
@@ -35,7 +35,7 @@ Geographic sales distribution across Indian states.
 Key financial KPIs including Total Cost, Quantity, Total Sales, and Profit.
 Supervisor overview to track team contributions.
 
- Business Impact
+ **Business Impact** <br />
 Empowers leadership to quickly identify high-profit categories and brands, allocate resources effectively, optimize cost structures, and strategize region-wise marketing efforts, ultimately driving higher profitability and operational efficiency.
 
 ## Key Features of the Dashboard
