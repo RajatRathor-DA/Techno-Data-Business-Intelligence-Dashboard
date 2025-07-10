@@ -24,10 +24,10 @@ It includes information on product categories, sales quantities, costs, brand-wi
 Business Problem
 Sales and business teams lacked a centralized, visual platform to monitor product-wise performance, regional coverage, and brand-level costs, making it challenging to identify key profit drivers and optimize inventory.
 
-## Goal of the Dashboard
+  Goal of the Dashboard
 To build an interactive Power BI dashboard that clearly communicates overall and detailed sales performance, highlights top-performing categories and brands, and supports data-driven decision-making for better profitability.
 
-## Key Analysis Walkthrough
+ Key Analysis Walkthrough
 The dashboard provides insights into:
 Count of sales by product category (e.g., Monitor, CPU, Mouse).
 Total cost breakdown by brand (e.g., Intel, Samsung, Nvidia).
@@ -35,7 +35,7 @@ Geographic sales distribution across Indian states.
 Key financial KPIs including Total Cost, Quantity, Total Sales, and Profit.
 Supervisor overview to track team contributions.
 
-## Business Impact
+ Business Impact
 Empowers leadership to quickly identify high-profit categories and brands, allocate resources effectively, optimize cost structures, and strategize region-wise marketing efforts, ultimately driving higher profitability and operational efficiency.
 
 ## Key Features of the Dashboard
@@ -48,9 +48,11 @@ Empowers leadership to quickly identify high-profit categories and brands, alloc
 💡 Clean, modern layout supporting clear storytelling and quick executive insights.<br />
 🧮 Custom DAX measures to dynamically calculate profit and sales metrics.<br />
 
-## Dashboard Interaction  
-< a href="https://github.com/RajatRathor-DA/Techno-Data-Business-IntelligenceDashboard/blob/main/Sales%20Analysis%20Report%20TECHNO%20DATA%20%20By%20RAJAT%20RATHOR%20.png">View dashboard<\a>
-
 ## Screenshot or Demo
 <img width="577" alt="Sales Analysis Report TECHNO DATA  By RAJAT RATHOR " src="https://github.com/user-attachments/assets/31adc149-5af8-44c3-9dc1-931582ec65cd" />
+
+## Final Conclusion 
+The Techno Data Sales Performance Dashboard provides a comprehensive, visual overview of 2023–24 sales, highlighting key insights across product categories, brand costs, and regional distribution. By showcasing top-selling products like monitors and CPUs, and analyzing brand-wise spending with Intel and Samsung as major cost drivers, it helps identify profit opportunities and optimize procurement strategies. The interactive state map and supervisor panel further empower leadership to make informed, data-driven decisions. Overall, this Power BI dashboard serves as a powerful tool for enhancing strategic planning, maximizing profitability, and improving operational efficiency in a competitive market.
+
+
 
